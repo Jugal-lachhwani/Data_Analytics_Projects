@@ -14,7 +14,7 @@ Welcome to my repository of data science and statistical analysis projects compl
 ---
 
 ### 2. **Call Center Operations Optimization Project**
-- **Objective**: Improve efficiency and reduce call handling time in a call center setup.
+- **Objective**: Improve efficiency and reduce customer waiting time with increasing profits in a call center setup.
 - **Techniques**: Descriptive analytics, queue modeling, bottleneck identification.
 - **Outcome**: Recommended data-driven operational changes for better performance.
 
@@ -38,6 +38,13 @@ Welcome to my repository of data science and statistical analysis projects compl
 - **Objective**: Analyze voting patterns and results of Indian general elections.
 - **Techniques**: Data preprocessing, demographic analysis, geographic insights.
 - **Outcome**: Derived statistical insights on voter behavior and trends.
+
+---
+
+### 6. **Manufacturing Quality Control Project**
+- **Objective**: Monitor and analyze product quality using control charts in a manufacturing setup.
+- **Techniques**: X̄ and R charts, process variation analysis, control limits.
+- **Outcome**: Identified out-of-control processes and suggested improvements for production consistency.
 
 ---
 
